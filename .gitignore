@@ -1,0 +1,22 @@
+# Java build output
+*.class
+target/
+build/
+out/
+
+# Gradle local state
+.gradle/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
